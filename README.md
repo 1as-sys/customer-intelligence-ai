@@ -2,8 +2,6 @@
 
 An end-to-end **Data Science & Machine Learning project** that predicts customer churn, segments customers, and provides actionable business insights using real-world data.
 
----
-
 ## 🚀 Project Overview
 
 Customer churn is a critical problem for telecom and SaaS companies.  
@@ -102,4 +100,5 @@ notebooks/03_segmentation.ipynb
 
 5️⃣ Launch dashboard
 streamlit run app/dashboard.py
+
 
