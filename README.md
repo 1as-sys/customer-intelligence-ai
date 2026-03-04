@@ -100,5 +100,3 @@ notebooks/03_segmentation.ipynb
 
 5️⃣ Launch dashboard
 streamlit run app/dashboard.py
-
-
