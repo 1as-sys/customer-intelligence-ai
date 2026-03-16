@@ -91,7 +91,6 @@ Open Jupyter Notebook:
 
 jupyter notebook
 
-
 Then run:
 
 notebooks/01_eda.ipynb
